@@ -1,0 +1,5 @@
+git add testTXT.txt
+git commit -m "Añadido archivo texto.txt"
+git status
+NINETALES
+SUNFLORA
