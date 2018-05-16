@@ -1,0 +1,10 @@
+# ignora los archivos terminados en .class
+*.class
+
+# ignora los archivos terminados en ~
+*~
+
+# pero no importante~, aún cuando había ignorado los archivos terminados en ~,
+en la línea anterior
+
+!importante~
